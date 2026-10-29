@@ -1,0 +1,14 @@
+# Delivery roadmap
+- [x] Initial relational schema
+- [x] Initial PL/SQL scheduling package and eligibility trigger
+- [x] Analytics views
+- [x] Synthetic seed data
+- [x] Manual booking clash smoke test script
+- [ ] Execute scripts against Oracle and fix compilation/runtime issues
+- [ ] Automated database unit and concurrency tests
+- [ ] Stronger scheduling constraints and resource availability calendar
+- [ ] Payments and invoice reconciliation
+- [ ] Oracle APEX master-detail pages and role-based authorisation
+- [ ] Dashboard and report exports
+- [ ] Simulated EBS/Fusion integration and OTBI-style analytics
+- [ ] Demo screenshots, video, CI and deployment documentation
